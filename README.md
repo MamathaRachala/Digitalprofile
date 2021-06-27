@@ -11,16 +11,18 @@ Education:
 
 Experience:
 -	I was a Computer science lab assistant for degree students at the college level from 2006 to 2008
--	I was guiding and assisting students in their learning of Computer science.
+-	I was guiding and assisting students in their learning of Computer programming.
 
 Technical skills:
-•	Basic and advanced knowledge of AWS services
-•	Skills in Cloud computing
-•	Basic of Python language 
-•	Linux scripting Basics and Core Java 
+
+•	Basic knowledge of AWS services.
+•	Skills in Cloud computing.
+•	Basic of Python language. 
+•	Linux scripting Basics and Core Java .
 •	Basic knowledge of C, C++ programming. 
-•	Basic Understanding of SQL
-•	MS Office proficient: Word, Excel,Powerpoint
+•	Basic Understanding of SQL.
+•	MS Office proficient: Word, Excel,Powerpoint.
 
 Personal Acievements :
+	
 	Having moved to UK in 2010,I have been able to successfully relocate and integrate in a new country understanding the various cultural aspects of day to day living.
