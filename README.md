@@ -16,13 +16,18 @@ Experience:
 Technical skills:
 
 •	Basic knowledge of AWS services.
+
 •	Skills in Cloud computing.
+
 •	Basic of Python language. 
+
 •	Linux scripting Basics and Core Java .
+
 •	Basic knowledge of C, C++ programming. 
+
 •	Basic Understanding of SQL.
+
 •	MS Office proficient: Word, Excel,Powerpoint.
 
-Personal Acievements :
-	
+Personal Acievements :	
 	Having moved to UK in 2010,I have been able to successfully relocate and integrate in a new country understanding the various cultural aspects of day to day living.
