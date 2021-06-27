@@ -29,5 +29,5 @@ Technical skills:
 
 •	MS Office proficient: Word, Excel,Powerpoint.
 
-Personal Acievements :	
-	Having moved to UK in 2010,I have been able to successfully relocate and integrate in a new country understanding the various cultural aspects of day to day living.
+Personal Acievements :
+Having moved to UK in 2010,I have been able to successfully relocate and integrate in a new country understanding the various cultural aspects of day to day living.
